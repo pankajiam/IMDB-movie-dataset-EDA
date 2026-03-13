@@ -21,7 +21,7 @@ A rookie movie producer needs data-driven recommendations on:
 ## Tools Used
 - Python
 - Pandas
-- Matplotlib / Seaborn
+- Numpy
 - Google Colab
 
 ## Dataset
