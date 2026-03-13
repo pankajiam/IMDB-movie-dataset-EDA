@@ -8,7 +8,6 @@ decide what type of movies to produce and which actors to cast.
 A rookie movie producer needs data-driven recommendations on:
 - What type of movies to produce
 - Which actors to cast
-- Which directors and producers to work with
 
 ## Questions Answered
 1. Which movie made the highest profit? Who were its producer and director?
@@ -16,12 +15,12 @@ A rookie movie producer needs data-driven recommendations on:
 3. What are the unique genres in this dataset?
 4. Top 3 producers with the highest average ROI
 5. Which actor has acted in the most movies? (genre & profit deep dive)
-6. Which actors do the top 3 directors prefer the most?
 
 ## Tools Used
 - Python
 - Pandas
 - Numpy
+- Matplotlib
 - Google Colab
 
 ## Dataset
